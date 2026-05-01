@@ -8,7 +8,7 @@
             "rating": 5,
             "level": "Beginner",
             "description": "Learn full-stack web development from scratch with HTML, CSS, JavaScript, React, and Node.js.",
-            "image": "https://i.postimg.cc/1XyG5kQp/course1.png",
+            "image": "https://wesiywxvqcvlthltoawi.supabase.co/storage/v1/object/public/course%20images/1.jpg",
             "category": "Development"
         },
         {
@@ -19,7 +19,7 @@
             "rating": 4.7,
             "level": "Beginner",
             "description": "Master user interface and user experience design using Figma and real-world projects.",
-            "image": "https://i.postimg.cc/2SxK9mVb/course2.png",
+            "image": "https://wesiywxvqcvlthltoawi.supabase.co/storage/v1/object/public/course%20images/5.jpg",
             "category": "Design"
         },
         {
@@ -30,7 +30,7 @@
             "rating": 4.9,
             "level": "Intermediate",
             "description": "Deep dive into closures, prototypes, async programming, and advanced JavaScript patterns.",
-            "image": "https://i.postimg.cc/3RzQ7tLm/course3.png",
+            "image": "https://wesiywxvqcvlthltoawi.supabase.co/storage/v1/object/public/course%20images/3.jpg",
             "category": "Development"
         },
         {
@@ -41,7 +41,7 @@
             "rating": 4.8,
             "level": "Intermediate",
             "description": "Learn Python, pandas, NumPy, and data visualization for real-world data analysis.",
-            "image": "https://i.postimg.cc/4nVx2yPf/course4.png",
+            "image": "https://wesiywxvqcvlthltoawi.supabase.co/storage/v1/object/public/course%20images/7.jpg",
             "category": "Data Science"
         },
         {
@@ -52,7 +52,7 @@
             "rating": 4.6,
             "level": "Beginner",
             "description": "Learn SEO, social media marketing, Google Ads, and content strategy.",
-            "image": "https://i.postimg.cc/5tYk8qZs/course5.png",
+            "image": "https://wesiywxvqcvlthltoawi.supabase.co/storage/v1/object/public/course%20images/9.jpg",
             "category": "Marketing"
         },
         {
@@ -63,7 +63,7 @@
             "rating": 4.9,
             "level": "Advanced",
             "description": "Build modern web apps using React and Next.js with real-world production patterns.",
-            "image": "https://i.postimg.cc/6pLm3vQr/course6.png",
+            "image": "https://wesiywxvqcvlthltoawi.supabase.co/storage/v1/object/public/course%20images/4.jpg",
             "category": "Development"
         },
         {
@@ -74,7 +74,7 @@
             "rating": 5,
             "level": "Intermediate",
             "description": "Understand core machine learning concepts, algorithms, and model building.",
-            "image": "https://i.postimg.cc/7YxP9kZt/course7.png",
+            "image": "https://wesiywxvqcvlthltoawi.supabase.co/storage/v1/object/public/course%20images/8.jpg",
             "category": "AI & Data Science"
         },
         {
@@ -85,7 +85,7 @@
             "rating": 4.6,
             "level": "Beginner",
             "description": "Learn how to protect systems, networks, and data from cyber threats.",
-            "image": "https://i.postimg.cc/8LxQ2vBn/course8.png",
+            "image": "https://wesiywxvqcvlthltoawi.supabase.co/storage/v1/object/public/course%20images/6.jpg",
             "category": "Security"
         },
         {
@@ -96,7 +96,7 @@
             "rating": 5,
             "level": "Intermediate",
             "description": "Build cross-platform mobile apps using Flutter and Dart.",
-            "image": "https://i.postimg.cc/9MxT5vLp/course9.png",
+            "image": "https://wesiywxvqcvlthltoawi.supabase.co/storage/v1/object/public/course%20images/2.jpg",
             "category": "Mobile Development"
         }
     ]
