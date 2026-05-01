@@ -1,0 +1,103 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "title": "Complete Web Development Bootcamp",
+            "instructor": "John Doe",
+            "duration": "20 hours",
+            "rating": 4.8,
+            "level": "Beginner",
+            "description": "Learn full-stack web development from scratch with HTML, CSS, JavaScript, React, and Node.js.",
+            "image": "https://i.postimg.cc/1XyG5kQp/course1.png",
+            "category": "Development"
+        },
+        {
+            "id": 2,
+            "title": "UI/UX Design Masterclass",
+            "instructor": "Sarah Ahmed",
+            "duration": "15 hours",
+            "rating": 4.7,
+            "level": "Beginner",
+            "description": "Master user interface and user experience design using Figma and real-world projects.",
+            "image": "https://i.postimg.cc/2SxK9mVb/course2.png",
+            "category": "Design"
+        },
+        {
+            "id": 3,
+            "title": "JavaScript Advanced Concepts",
+            "instructor": "Michael Brown",
+            "duration": "18 hours",
+            "rating": 4.9,
+            "level": "Intermediate",
+            "description": "Deep dive into closures, prototypes, async programming, and advanced JavaScript patterns.",
+            "image": "https://i.postimg.cc/3RzQ7tLm/course3.png",
+            "category": "Development"
+        },
+        {
+            "id": 4,
+            "title": "Python for Data Science",
+            "instructor": "Emily Carter",
+            "duration": "22 hours",
+            "rating": 4.8,
+            "level": "Intermediate",
+            "description": "Learn Python, pandas, NumPy, and data visualization for real-world data analysis.",
+            "image": "https://i.postimg.cc/4nVx2yPf/course4.png",
+            "category": "Data Science"
+        },
+        {
+            "id": 5,
+            "title": "Digital Marketing Essentials",
+            "instructor": "David Wilson",
+            "duration": "12 hours",
+            "rating": 4.6,
+            "level": "Beginner",
+            "description": "Learn SEO, social media marketing, Google Ads, and content strategy.",
+            "image": "https://i.postimg.cc/5tYk8qZs/course5.png",
+            "category": "Marketing"
+        },
+        {
+            "id": 6,
+            "title": "React & Next.js Mastery",
+            "instructor": "Alex Johnson",
+            "duration": "25 hours",
+            "rating": 4.9,
+            "level": "Advanced",
+            "description": "Build modern web apps using React and Next.js with real-world production patterns.",
+            "image": "https://i.postimg.cc/6pLm3vQr/course6.png",
+            "category": "Development"
+        },
+        {
+            "id": 7,
+            "title": "Machine Learning Basics",
+            "instructor": "Daniel Lee",
+            "duration": "30 hours",
+            "rating": 4.7,
+            "level": "Intermediate",
+            "description": "Understand core machine learning concepts, algorithms, and model building.",
+            "image": "https://i.postimg.cc/7YxP9kZt/course7.png",
+            "category": "AI & Data Science"
+        },
+        {
+            "id": 8,
+            "title": "Cybersecurity Fundamentals",
+            "instructor": "Sophia Martinez",
+            "duration": "16 hours",
+            "rating": 4.6,
+            "level": "Beginner",
+            "description": "Learn how to protect systems, networks, and data from cyber threats.",
+            "image": "https://i.postimg.cc/8LxQ2vBn/course8.png",
+            "category": "Security"
+        },
+        {
+            "id": 9,
+            "title": "Flutter App Development",
+            "instructor": "James Anderson",
+            "duration": "24 hours",
+            "rating": 4.8,
+            "level": "Intermediate",
+            "description": "Build cross-platform mobile apps using Flutter and Dart.",
+            "image": "https://i.postimg.cc/9MxT5vLp/course9.png",
+            "category": "Mobile Development"
+        }
+    ]
+}
