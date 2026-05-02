@@ -99,5 +99,70 @@
             "image": "https://wesiywxvqcvlthltoawi.supabase.co/storage/v1/object/public/course%20images/2.jpg",
             "category": "Mobile Development"
         }
-    ]
+    ],
+    "instructors": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "presentPost": "Senior Full Stack Developer",
+      "experience": "8 years",
+      "image": "https://randomuser.me/api/portraits/men/32.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sarah Ahmed",
+      "presentPost": "UI/UX Designer",
+      "experience": "6 years",
+      "image": "https://randomuser.me/api/portraits/women/44.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Michael Brown",
+      "presentPost": "JavaScript Engineer",
+      "experience": "7 years",
+      "image": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Emily Carter",
+      "presentPost": "Data Scientist",
+      "experience": "5 years",
+      "image": "https://randomuser.me/api/portraits/women/65.jpg"
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "presentPost": "Digital Marketing Specialist",
+      "experience": "6 years",
+      "image": "https://randomuser.me/api/portraits/men/52.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Alex Johnson",
+      "presentPost": "Frontend Architect (React & Next.js)",
+      "experience": "9 years",
+      "image": "https://randomuser.me/api/portraits/men/12.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Daniel Lee",
+      "presentPost": "Machine Learning Engineer",
+      "experience": "7 years",
+      "image": "https://randomuser.me/api/portraits/men/76.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sophia Martinez",
+      "presentPost": "Cybersecurity Analyst",
+      "experience": "6 years",
+      "image": "https://randomuser.me/api/portraits/women/22.jpg"
+    },
+    {
+      "id": 9,
+      "name": "James Anderson",
+      "presentPost": "Mobile App Developer (Flutter)",
+      "experience": "5 years",
+      "image": "https://randomuser.me/api/portraits/men/28.jpg"
+    }
+  ]
 }
